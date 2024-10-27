@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vu&#39;s Blog</title>
-    <link>/tags/</link>
+    <link>https://vuvoth.github.io/tags/</link>
     <description>Recent content in Tags on Vu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 20:13:29 +0700</lastBuildDate>
+    <atom:link href="https://vuvoth.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adhoc</title>
-      <link>/tags/adhoc/</link>
-      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/adhoc/</guid>
+      <link>https://vuvoth.github.io/tags/adhoc/</link>
+      <pubDate>Sun, 27 Oct 2024 20:13:29 +0700</pubDate>
+      <guid>https://vuvoth.github.io/tags/adhoc/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/blog/</guid>
+      <link>https://vuvoth.github.io/tags/blog/</link>
+      <pubDate>Sun, 27 Oct 2024 20:13:29 +0700</pubDate>
+      <guid>https://vuvoth.github.io/tags/blog/</guid>
       <description></description>
     </item>
   </channel>

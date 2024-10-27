@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/adhoc/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://vuvoth.github.io/tags/adhoc/</loc>
+    <lastmod>2024-10-27T20:13:29+07:00</lastmod>
   </url><url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://vuvoth.github.io/tags/blog/</loc>
+    <lastmod>2024-10-27T20:13:29+07:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://vuvoth.github.io/</loc>
+    <lastmod>2024-10-27T20:13:29+07:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://vuvoth.github.io/posts/</loc>
+    <lastmod>2024-10-27T20:13:29+07:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://vuvoth.github.io/tags/</loc>
+    <lastmod>2024-10-27T20:13:29+07:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://vuvoth.github.io/posts/27-10-2024-why-i-star-this-blog/</loc>
+    <lastmod>2024-10-27T20:13:29+07:00</lastmod>
+  </url><url>
+    <loc>https://vuvoth.github.io/posts/my-first-post/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
   </url>
 </urlset>
