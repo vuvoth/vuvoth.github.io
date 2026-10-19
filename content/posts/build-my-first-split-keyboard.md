@@ -3,8 +3,7 @@ title: "Build My First Split Keyboard"
 date: 2026-10-18T00:00:00+00:00
 draft: false
 tags: ["Keyboard"]
-showToc: true
-tocOpen: true
+toc: true
 ---
 
 # Overview

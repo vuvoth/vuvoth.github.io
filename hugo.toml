@@ -1,4 +1,33 @@
 baseURL = 'https://vuvoth.github.io/'
 locale = 'en-us'
+languageCode = 'en-us'
 title = "Vu's Blog"
-theme = "PaperMod"
+theme = "dead-simple"
+
+[params]
+  description = "Vu's blog — keyboards, code, and other rabbit holes."
+  noSearch = false
+
+[outputs]
+  home = ['html', 'rss', 'json']
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    style = "bw"
+
+[menu]
+  [[menu.main]]
+    name = "<u>H</u>ome"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "<u>T</u>ags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    name = "<u>A</u>bout"
+    url = "/about/"
+    weight = 3
