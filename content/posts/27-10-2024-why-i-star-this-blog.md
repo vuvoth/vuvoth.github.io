@@ -1,15 +1,13 @@
 ---
-title: "Why do I start KEm project?"
+title: "Why Did I Start the KEm Project?"
 date: 2024-10-27T20:13:29+07:00
 draft: false
 summary: "Welcome to my blog"
 tags: ["Adhoc", "Blog"]
 ---
 
-# Why do I start KEm Project?
+KEm stands for Kafe-Engineering-Myself. You can see this blog will focus on coffee, engineering, and myself. I want to create a blog to remember the interesting milestones in my life. These may be quick notes, deep posts, or just pictures.
 
-A KEm stand for Kafe-Engineering-Myself. You can see this blog will focus about coffee, engineering and myself. I want to create a blog to remember a interesting milestones in my life. This maybe a quick notes, deep blogs or just a pictures.
-
-I'm a coffee newbie so I will talk about coffee like coffee making tools, coffee specialy and a brews styles. This blog focus on engineering site, the topics about cryptography, programming language and other interesting stuffs.
+I'm a coffee newbie, so I will talk about things like coffee-making tools, coffee specialty, and brew styles. This blog also focuses on the engineering side: topics like cryptography, programming languages, and other interesting stuff.
 
 Hope you enjoy and have a good day!
